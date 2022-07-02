@@ -142,7 +142,7 @@ wb.save(r'주식현재가.xlsx')
 ~~~
 
 >
-> 과제 해설
+> 과제 해설...!
 ~~~python
 import requests
 from bs4 import BeautifulSoup
