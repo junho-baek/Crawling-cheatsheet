@@ -1,0 +1,5 @@
+document/
+.replit
+replit.nix
+poetry.lock
+pyprojec.toml
